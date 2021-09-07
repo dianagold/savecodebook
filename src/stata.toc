@@ -1,0 +1,3 @@
+v 0.1
+d Diana Goldemberg (diana_goldemberg@g.harvard.edu)
+p SAVECODEBOOK - saves the output of "codebook, compact" as a file (.dta, .csv, .xls, or .xlsx)

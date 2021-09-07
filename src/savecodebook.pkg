@@ -1,0 +1,22 @@
+v 0.1
+
+d 'SAVECODEBOOK': saves the output of "codebook, compact" as a file (.dta, .csv, .xls, or .xlsx)
+d
+d KW: codebook
+d KW: community-contributed commands
+d KW: user-written commands
+d
+d Requires: Stata version 13
+d
+d Distribution-Date: 20210907
+d
+d Author:  Diana Goldemberg
+d Support: diana_goldemberg@g.harvard.edu
+d
+d License: MIT
+d Repo: https://github.com/dianagold/savecodebook
+
+f /savecodebook.ado
+f /savecodebook.sthlp
+
+e
